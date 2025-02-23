@@ -67,7 +67,6 @@ I'm a Java-focused Software Engineer with 4 years of experience in backend devel
 - Conducted full end-to-end manual testing of the event's website.
 
 **Technologies:** Spring Boot, MySQL, Spring Data, JavaMailSender  
-**GitHub Link:** N/A
 
 #### **Sales Task Management System (Challenge Accepted)**  
 - Backend API that manages sales tasks and assigns them to sales agents based on their success rates.
@@ -87,6 +86,6 @@ I'm a Java-focused Software Engineer with 4 years of experience in backend devel
 
 - **Email:** osama.ayman1005@gmail.com  
 - **Phone:** (+20) 100 915 4951  
-- **LinkedIn:** [Osama A. Ibrahim](#)  
+- **LinkedIn:** [Osama A. Ibrahim](https://www.linkedin.com/in/osama-ibrahim-a117311b7)  
 - **GitHub:** [Osama A. Ibrahim](https://github.com/osamaayman1005)  
-- **LeetCode:** [Osama A. Ibrahim](#)
+- **LeetCode:** [Osama A. Ibrahim](https://leetcode.com/u/osamaayman1005)
